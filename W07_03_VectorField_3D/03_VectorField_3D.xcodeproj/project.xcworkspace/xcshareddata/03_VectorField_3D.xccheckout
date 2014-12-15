@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>13FB81B2-DD01-423B-BA18-3CFCCF6729D2</string>
+	<key>IDESourceControlProjectName</key>
+	<string>03_VectorField_3D</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>99BB23C7D7F44118FC031A27370DF67BBFF64491</key>
+		<string>https://github.com/patriciogonzalezvivo/sims2014.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>week07/03_VectorField_3D/03_VectorField_3D.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>99BB23C7D7F44118FC031A27370DF67BBFF64491</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/patriciogonzalezvivo/sims2014.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>99BB23C7D7F44118FC031A27370DF67BBFF64491</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>99BB23C7D7F44118FC031A27370DF67BBFF64491</string>
+			<key>IDESourceControlWCCName</key>
+			<string>sims2014</string>
+		</dict>
+	</array>
+</dict>
+</plist>
