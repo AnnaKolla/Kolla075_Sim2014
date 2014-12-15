@@ -1,5 +1,5 @@
 dependencies: \
-  /Applications/openFrameworks/apps/myApps/shader_nov5/src/main.cpp \
+  /Users/AnnelieKoller/Documents/openFrameworks/apps/Kolla075_Sim2014/In_Class_Shader_nov5\ /src/main.cpp \
   ../../../libs/openFrameworks/ofMain.h \
   ../../../libs/openFrameworks/utils/ofConstants.h \
   ../../../libs/glew/include/GL/glew.h \
