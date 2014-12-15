@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>21C1CD0D-053E-4C4D-A335-284284978D71</string>
+	<key>IDESourceControlProjectName</key>
+	<string>openGL_Tutorial_1_3D</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D9C02B3AC5EC77DDC282EE9C6801351732F91C1F</key>
+		<string>https://github.com/AnnaKolla/Kolla075_Sim2014.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>W10_openGL_Tutorial3D/openGL_Tutorial_1_3D.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D9C02B3AC5EC77DDC282EE9C6801351732F91C1F</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/AnnaKolla/Kolla075_Sim2014.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D9C02B3AC5EC77DDC282EE9C6801351732F91C1F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D9C02B3AC5EC77DDC282EE9C6801351732F91C1F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Kolla075_Sim2014</string>
+		</dict>
+	</array>
+</dict>
+</plist>
